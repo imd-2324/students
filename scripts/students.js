@@ -7,5 +7,6 @@ const students = [
     { name: 'Jonah De Smet', github: 'https://janoahdev.github.io' },
     { name: 'Arnout Hennion', github: 'https://djkaas.github.io/' },
     { name: 'De Graeve Lorenzo', github: 'https://DeGraeveL1308.github.io' },
-
+    { name: 'Louis Dierickx', github: 'https://drxlouis.github.io' },
+    { name: 'Vik Sluijter', github: 'https://arteveldevik.github.io/'}
 ];
