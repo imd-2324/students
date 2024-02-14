@@ -9,5 +9,5 @@ const students = [
     { name: 'De Graeve Lorenzo', github: 'https://DeGraeveL1308.github.io' },
     { name: 'Louis Dierickx', github: 'https://drxlouis.github.io' },
     { name: 'Jarno Pennoit', github: 'https://jbotboy.github.io' },
-];
+    { name: 'Vik Sluijter', github: 'https://arteveldevik.github.io/'}
 ];
